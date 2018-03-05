@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("第一次修改")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
